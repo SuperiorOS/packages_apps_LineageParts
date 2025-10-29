@@ -692,4 +692,8 @@
 
     <!-- Content description of preview pager in colors preview -->
     <string name="colors_viewpager_content_description">Color preview</string>
+
+    <!-- Navigation -->
+    <string name="system_navigation_title">Navigation mode</string>
+    <string name="system_navigation_summary">Configure navigation menus</string>
 </resources>

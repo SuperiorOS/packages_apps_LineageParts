@@ -32,6 +32,14 @@
         android:key="navigation_bar_category"
         android:title="@string/navigation_bar_category" >
 
+        <Preference
+            android:key="gesture_system_navigation"
+            android:title="@string/system_navigation_title"
+            android:summary="@string/system_navigation_summary">
+            <intent
+                android:action="com.android.settings.NAVIGATION_MODE_SETTINGS" />
+         </Preference>
+
         <SwitchPreferenceCompat
                 android:key="enable_taskbar"
                 android:title="@string/navigation_bar_enable_taskbar_title" />
