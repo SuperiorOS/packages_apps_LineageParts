@@ -87,6 +87,7 @@
         <item>@string/hardware_keys_action_screenshot</item>
         <item>@string/hardware_keys_action_partial_screenshot</item>
         <item>@string/hardware_keys_action_volume_panel</item>
+        <item>@string/hardware_keys_action_cycle_ringer_mode</item>
     </string-array>
 
     <string-array name="hardware_keys_action_values" translatable="false">
@@ -105,6 +106,7 @@
         <item>12</item>
         <item>13</item>
         <item>14</item>
+        <item>15</item>
     </string-array>
 
     <!-- Volume key cursor control -->
